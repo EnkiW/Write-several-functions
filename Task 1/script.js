@@ -15,6 +15,6 @@ function calculate(numbers) {
 }
 
 // Приклад використання:
-// let arr = [1, 2, 3, 4, 5, 6];
-// let fin = calculate(arr);
-// console.log(fin);
+let arr = [1, 2, 3, 4, 5, 6];
+let fin = calculate(arr);
+console.log(fin);
